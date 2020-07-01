@@ -1,0 +1,7 @@
+﻿  Item.cpp
+C:\Users\ash.coca\source\repos\VendingMachineDemoVS2019\Item.cpp(18,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ash.coca\source\repos\VendingMachineDemoVS2019\Item.cpp(28,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  VendingMachine.cpp
+  VendingMachineTestMain.cpp
+  Generating Code...
+  VendingMachineDemoVS2019.vcxproj -> C:\Users\ash.coca\source\repos\VendingMachineDemoVS2019\Debug\VendingMachineDemoVS2019.exe

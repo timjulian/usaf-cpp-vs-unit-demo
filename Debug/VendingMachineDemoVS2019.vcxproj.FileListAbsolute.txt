@@ -1,0 +1,5 @@
+C:\Users\ash.coca\source\repos\VendingMachineDemoVS2019\Debug\VendingMachineDemoVS2019.vcxproj.CopyComplete
+C:\Users\ash.coca\source\repos\VendingMachineDemoVS2019\Debug\VendingMachineDemoVS2019.exe
+C:\Users\ash.coca\source\repos\VendingMachineDemoVS2019\Debug\VendingMachineDemoVS2019.pdb
+C:\Users\ash.coca\source\repos\VendingMachineDemoVS2019\Debug\gtest.pdb
+C:\Users\ash.coca\source\repos\VendingMachineDemoVS2019\Debug\gtest_main.pdb
