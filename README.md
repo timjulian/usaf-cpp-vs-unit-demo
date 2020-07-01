@@ -2,7 +2,7 @@
 
 After cloning, to use this project you'll need to disable **preconfiled headers** in Visual Studio.
 
-1. Open your project, then select “Project” > “appname Properties…“.
+1. Open your project, then select “Project” > “Properties…“.
 2. Expand “Configuration Properties” > “C/C++” > “Precompiled Headers“.
 3. Set “Precompiled Header” to “Not Using Precompiled Headers“.
 
